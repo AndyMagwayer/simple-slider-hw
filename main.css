@@ -25,3 +25,7 @@
     cursor: pointer;
     margin:10px auto;
 }
+
+.btn:hover{
+    background: #111;
+}
