@@ -1,1 +1,3 @@
 # simple-slider-hw
+
+## Deploy:
